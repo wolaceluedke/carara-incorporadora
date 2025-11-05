@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <ObrasSection />
       <HeroSection />
+      <ObrasSection />
       <HistoriaSection />
       <PropositoSection />
       <Complement />

@@ -1,6 +1,6 @@
 export const HeroSection = () => {
   return (
-    <section className="relative min-h-52 flex items-center justify-center overflow-hidden bg-red-500">
+    <section className="relative min-h-52 flex items-center justify-center overflow-hidden bg-red-500 pt-20">
       {/* Overlay */}
       <div className="absolute inset-0 bg-opacity-40 z-[1]"></div>
 
